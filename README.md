@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandlexofficial
-- 👀 I’m interested in coding with python, java(for game creation and plugins creation for minecraft), JavaScript(For web development), HTML, CSS, and React.
+- 👀 I’m interested in coding with python, JavaScript(For web development/other projects), HTML, CSS, PHP, and MySql.
 - 🌱 I’m currently learning React and CSS
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me if i were in space: launch a bean can with a string attatched up in space and boom!, there you go, communication!
